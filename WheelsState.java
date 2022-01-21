@@ -1,6 +1,6 @@
 public class WheelsState {
     private final double DRIVETRAIN_LENGTH_METERS = 1;
-    private final double DRIVETRAIN_WIDTH_METERS = 1;
+    private final double DRIVETRAIN_WIDTH_METERS = 2;
     private final double DRIVETRAIN_DIAMETER = Math.sqrt((DRIVETRAIN_LENGTH_METERS * DRIVETRAIN_LENGTH_METERS) + (DRIVETRAIN_WIDTH_METERS * DRIVETRAIN_WIDTH_METERS));
 
 
